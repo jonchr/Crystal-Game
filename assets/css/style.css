@@ -1,0 +1,13 @@
+ body {
+ 	background-image: url("../images/diamond_upholstery_@2X.png");
+ }
+
+ .crystalImage {
+
+ 	height: 200px;
+ 	margin: 10px;
+ }
+
+ .black {
+ 	border: 4px solid black;
+ }
