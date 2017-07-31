@@ -1,13 +1,33 @@
- body {
- 	background-image: url("../images/diamond_upholstery_@2X.png");
- }
+	 body {
+	 	background-image: url("../images/diamond_upholstery_@2X.png");
+	 }
 
- .crystalImage {
+	 .crystalImage {
 
- 	height: 200px;
- 	margin: 10px;
- }
+	 	height: 125px;
+	 	width: 125px;
+	 	margin: 10px;
+	
+		background-color: white;
+	 	border: 4px solid #555555;
 
- .black {
- 	border: 4px solid black;
- }
+	 }
+
+	 #crystals {
+
+	 	display: grid;
+	 	grid-template: 1fr 1fr / 1fr 1fr;
+
+	 	padding: auto;
+	 }
+
+	 #gameTitle {
+	 	text-align: center;
+	 	border-bottom: 2px solid lightblue;
+	 	padding-bottom: 20px;
+	 }
+
+	 hr {
+	 	border-color: lightblue;
+	 }
+

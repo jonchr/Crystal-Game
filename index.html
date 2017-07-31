@@ -23,22 +23,41 @@
 <body>
 
 	<!-- Game Title section. To be updated using JS/Jquery -->
-	<div id="gameTitle"></div>
+	
+	<div class="container">
+	<div class="row">
+		<h1 id="gameTitle"></h1>
+	</div>
 
-	<!-- Game Rules section. To be updated using JS/Jquery -->
-	<div id="gameRules"><u></u></div>
+	<div class="row">
 
-	<!-- Goal Score section. To be updated using JS/Jquery -->
-	<h1 id="goal"></h1>
+		<div class="col-md-4">
+			<!-- Game Rules section. To be updated using JS/Jquery -->
+			  <div class="panel-heading">
+			    <h2 class="panel-title" id="rules"></h2>
+			  </div>
+			  <div class="panel-body" id="gameRules">
+			  </div>
+		</div>
 
-	<!-- Player record section. To be updated using JS/Jquery -->
-	<div id="record"></div>
+		<div class="col-md-4">
+			<!-- Crystal Images section. To be updated using JS/Jquery -->
+			<div id="crystals"></div>
+		</div>
 
-	<!-- Crystal Images section. To be updated using JS/Jquery -->
-	<div id="crystals"></div>
+		<div class="col-md-4">
+			<!-- Goal Score section. To be updated using JS/Jquery -->
+			<h3 id="goal"></h3>
 
-	<!-- Game Title section. To be updated using JS/Jquery -->
-	<div id="score"></div>
+			<!-- Game Title section. To be updated using JS/Jquery -->
+			<h3 id="score"></h3>
+
+			<!-- Player record section. To be updated using JS/Jquery -->
+			<h3 id="record"></h3>
+		</div>
+
+	</div>
+	</div>
 
 	<script type="text/javascript" src="./assets/javascript/game.js"></script>
 
