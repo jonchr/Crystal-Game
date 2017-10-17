@@ -11,10 +11,12 @@ The objective of this game is to get your score to exactly match the goal score 
 This game was developed as part of the GW Coding Bootcamp and was completed within end of the second week. This project was built using HTML5, CSS3 with Bootstrap 3.3.7, and Javascript with jQuery.
 
 The four images for the crystals are all pop-culture references.
+	
 	Top Left - The Heart of the Ocean from **Titanic**
 	Top Right - From the title card of British game show, **The Crystal Maze**
 	Bottom Left - The Infinity Gaunlet from **Marvel Comics**
 	Bottom Right - The Water, Fire, and Thunder Evolution stones from **Pokemon**
+	
 The random score for each crystal is stored as that HTML object's point's data-attribute.
 
 The background image for this page is **Diamond Upholstery** and was used with permission from https://www.toptal.com/designers/subtlepatterns/diamond-upholstery/
