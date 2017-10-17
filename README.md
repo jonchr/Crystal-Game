@@ -12,11 +12,11 @@ This game was developed as part of the GW Coding Bootcamp and was completed with
 
 The four images for the crystals are all pop-culture references.
 	
-	Top Left - The Heart of the Ocean from **Titanic**
-	Top Right - From the title card of British game show, **The Crystal Maze**
-	Bottom Left - The Infinity Gaunlet from **Marvel Comics**
-	Bottom Right - The Water, Fire, and Thunder Evolution stones from **Pokemon**
-	
+	Top Left - The Heart of the Ocean from Titanic
+	Top Right - From the title card of British game show, The Crystal Maze
+	Bottom Left - The Infinity Gaunlet from Marvel Comics
+	Bottom Right - The Water, Fire, and Thunder Evolution stones from Pokemon
+
 The random score for each crystal is stored as that HTML object's point's data-attribute.
 
 The background image for this page is **Diamond Upholstery** and was used with permission from https://www.toptal.com/designers/subtlepatterns/diamond-upholstery/
